@@ -1,6 +1,6 @@
 id: 6f180cb4-30d4-4a8a-975e-e91ca7ed2ed9
 name: etherpad-apb
-image: ansibleplaybookbundle/etherpad-apb
+image: jkig/etherpad-apb
 description: Note taking web application
 bindable: true
 async: optional
